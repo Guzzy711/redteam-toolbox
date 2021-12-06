@@ -15,3 +15,8 @@ https://github.com/zerosum0x0/koadic
 
 ## Powershell Empire
 https://github.com/EmpireProject/Empire
+
+## Lab Guides
+
+### Pentest lab
+https://chryzsh.gitbooks.io/darthsidious/content/getting-started/getting-started.html
