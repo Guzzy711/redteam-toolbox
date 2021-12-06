@@ -20,3 +20,6 @@ https://github.com/EmpireProject/Empire
 
 ### Pentest lab
 https://chryzsh.gitbooks.io/darthsidious/content/getting-started/getting-started.html
+
+### Ired.team
+https://www.ired.team/
