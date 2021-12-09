@@ -7,6 +7,9 @@ https://github.com/nettitude/PoshC2/
 ## CobaltStrike (CS)
 https://www.cobaltstrike.com/
 
+### Cobalt strike guide
+https://hstechdocs.helpsystems.com/manuals/cobaltstrike/current/userguide/content/topics/welcome_main.htm#_Toc65482705
+
 ## Nishang
 https://github.com/samratashok/nishang
 
@@ -28,3 +31,4 @@ https://www.ired.team/
 
 ### TCM redteam courses
 https://tcm-sec.com/about/
+
