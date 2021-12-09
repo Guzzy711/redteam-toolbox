@@ -4,11 +4,14 @@
 #### POSHC2
 https://github.com/nettitude/PoshC2/
 
-## CobaltStrike (CS)
+## Cobalt Strike (CS)
 https://www.cobaltstrike.com/
 
 ### Cobalt strike guide
 https://hstechdocs.helpsystems.com/manuals/cobaltstrike/current/userguide/content/topics/welcome_main.htm#_Toc65482705
+
+### Mallable profiles
+https://github.com/rsmudge/Malleable-C2-Profiles
 
 ## Nishang
 https://github.com/samratashok/nishang
