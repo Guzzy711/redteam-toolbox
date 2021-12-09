@@ -23,3 +23,8 @@ https://chryzsh.gitbooks.io/darthsidious/content/getting-started/getting-started
 
 ### Ired.team
 https://www.ired.team/
+
+## Courses
+
+### TCM redteam courses
+https://tcm-sec.com/about/
